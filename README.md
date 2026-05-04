@@ -98,4 +98,4 @@ Modify, distribute, integrate with discipline-specific seeds. Share alike — de
 
 *Rob, Newcastle. 2026.*  
 *With assistance from a distributed cognition system whose failure modes are documented in the worked example above.*  
-*Dedicated to Ken Thompson, who pointed out in 1984 that the spiral does not terminate.*
+*Dedicated to Ken Thompson, who pointed out in 1983 that the spiral does not terminate.*
